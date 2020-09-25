@@ -1,0 +1,52 @@
+body {
+    background-image: url(images/foot.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    background-color: rgba(97, 187, 187, 0.4);
+    font-family: "Permanent Marker", cursive;
+    font-size: 38px;
+}
+
+h2 {
+    background-color: rgba(97, 187, 187, 0.4);
+    font-family: "Permanent Marker", cursive;
+    font-size: 28px;
+}
+
+h3 {
+    background-color: rgba(97, 187, 187, 0.4);
+    font-family: "Permanent Marker", cursive;
+    font-size: 28px;
+}
+
+p {
+    background-color: rgba(97, 187, 187, 0.4);
+    font-size: 25px;
+    font-family: 'Grandstander', cursive;
+}
+
+nav {
+    display: inline-block;
+    padding: 10px 40px;
+    color: powderblue;
+    background-color: rgb(91, 122, 122);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: 'Indie Flower', cursive;
+}
+
+nav:visited{
+    color: powderblue;
+}
+
+.ayy{
+    background-color: rgba(97, 187, 187, 0.4);
+    font-family: 'Amatic SC', cursive;
+    font-size: 28px;
+}
